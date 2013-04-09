@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace testwebbrower.Properties
+namespace Googler.Properties
 {
 
 
